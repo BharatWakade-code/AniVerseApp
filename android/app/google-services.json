@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314057536258",
+    "project_id": "animeverse-c0600",
+    "storage_bucket": "animeverse-c0600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314057536258:android:c1e1828b65474699e7881b",
+        "android_client_info": {
+          "package_name": "com.example.aniverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjRz4zjHUjtusstFRXcQvRw2jTvYzACjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
